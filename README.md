@@ -1,2 +1,3 @@
 # hello-world
-My first Git Project
+
+Initial Commit to GitHub!!
